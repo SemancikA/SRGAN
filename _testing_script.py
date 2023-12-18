@@ -11,3 +11,5 @@ if image is not None:
 else:
     print("Image not loaded correctly")
 
+
+# Example: Load an image and resize it
